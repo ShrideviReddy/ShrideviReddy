@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-[![Build Status](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shridevireddy/)
+### Connect me on:
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shridevireddy/)
 
-
-[2]: https://www.linkedin.com/in/shridevireddy/
 
 <!--
 **ShrideviReddy/ShrideviReddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

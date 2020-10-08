@@ -1,12 +1,7 @@
 ### Hi there 👋
 
 ### Connect me on:
-<a href="#" class="fa fa-linkedin" style="padding: 20px;
-  font-size: 30px;
-  width: 30px;
-  text-align: center;
-  text-decoration: none;
-  border-radius: 50%;"></a>
+<i class="fa fa-linkedin-square" style="font-size:48px;color:blue"></i>
 
 <!--
 **ShrideviReddy/ShrideviReddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

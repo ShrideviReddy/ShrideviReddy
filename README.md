@@ -1,7 +1,12 @@
 ### Hi there 👋
 
 ### Connect me on:
-<a href="#" class="fa fa-linkedin"></a>
+<a href="#" class="fa fa-linkedin" style="padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;"></a>
 
 <!--
 **ShrideviReddy/ShrideviReddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

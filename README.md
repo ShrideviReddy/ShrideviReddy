@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### Connect me on:
+<a href="#" class="fa fa-linkedin"></a>
+
 <!--
 **ShrideviReddy/ShrideviReddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,14 +1,7 @@
 ### Hi there 👋
 
-<!-- Actual text -->
+[![Build Status](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shridevireddy/)
 
-You can connect with me on [![LinkedIn][2.2]][2].
-
-<!-- Icons -->
-
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
 
 [2]: https://www.linkedin.com/in/shridevireddy/
 
